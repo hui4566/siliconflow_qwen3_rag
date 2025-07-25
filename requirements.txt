@@ -1,0 +1,8 @@
+streamlit
+llama-index
+llama-index-llms-openai
+llama-index-llms-openai-like
+llama-index-embeddings-openai
+python-dotenv
+PyPDF2
+pydantic
